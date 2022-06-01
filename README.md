@@ -13,7 +13,7 @@
 ---
 
 
-[![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=syggnus&theme=blue-green)]
+![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=syggnus&theme=blue-green)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### Donates :
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 ```
 bc1qrzdgf5s3n4nxv9rge8wv00v4k5w6kty0zu0dju
