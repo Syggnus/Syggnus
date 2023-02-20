@@ -1,30 +1,31 @@
+# Olá! Eu sou Chuan
 
-### Olá! Eu sou Chuan 😀
-
----
-<p align="justify"> Sou um jovem de 21 anos começando na área da programação, estudando muito para poder desenvolver apps com soluções eficientes aos usuários, além de contribuir em conhecimento e ideias na comunidade. </p>
-
----
-### Redes Sociais 🌐
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuan-igor-3263ab232/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chuan.igor/)
-
----
+<table>
+  <tr>
+    <td style="width: 53.8%">
 
 ![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=syggnus&theme=blue-green)
+    </td>
+    <td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syggnus&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table>
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syggnus&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+# 🛠 &nbsp; Tech Stack 
 
----
-
-### Tecnologias que estou estudando no momento 📚 🕮:
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=Express.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest)&nbsp;
 ---
