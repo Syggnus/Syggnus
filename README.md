@@ -1,17 +1,7 @@
 # Olá! Eu sou Chuan
 
-<table>
-  <tr>
-    <td style="width: 53.8%">
-
-![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=syggnus&theme=blue-green)
-    </td>
-    <td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syggnus&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-  </tr>
-</table>
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=syggnus&theme=blue-green" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syggnus&theme=blue-green" /></a> |
+| ------------- | ------------- |
 
 # 🛠 &nbsp; Tech Stack 
 
